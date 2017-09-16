@@ -25,9 +25,11 @@
   color: black;
 }
 
+
 nav #line{
   border-bottom:2px solid rgb(0,0,0,0.5);
   padding-bottom:40px;
+  background-color: rgb(128,0,128,0.6);
 }
 nav{
   padding-top: 40px;
