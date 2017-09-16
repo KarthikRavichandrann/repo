@@ -1,7 +1,8 @@
 #bdy{
   background-image: url("https://orig04.deviantart.net/6ffa/f/2010/273/9/2/fallout_new_vegas_wallpaper_by_galbitorix38-d2ztrmd.jpg");
-  background-size: contain;
-  
+  background-size: cover;
+  background-repeat: no-repeat;
+
 }
 
 #card-header{
